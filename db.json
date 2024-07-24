@@ -1,0 +1,10 @@
+{
+    "schools": [
+        {
+            "id": 1,
+            "school_name": "Flatiron School",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlatiron_School&psig=AOvVaw1k0S7In-4mQBcsJcnGWa-W&ust=1721923314319000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC06bWGwIcDFQAAAAAdAAAAABAE",
+            "price": 100.00
+        }
+    ]
+}
