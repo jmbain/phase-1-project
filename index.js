@@ -26,6 +26,26 @@ function addSchoolToList(school) {
 
 }
 
+function addSchoolToGrowingList(school) {
+    const liElement = document.createElement('li')
+    // const nameElement = document.createElement('h3')
+    liElement.textContent = `School Name: ${school.name}`
+
+    // liElement.appendChild(nameElement)
+    growingSchoolsListElement.appendChild(liElement)
+
+}
+
+function addSchoolToShrinkingList(school) {
+    const liElement = document.createElement('li')
+    // const nameElement = document.createElement('h3')
+    liElement.textContent = `School Name: ${school.name}`
+
+    // liElement.appendChild(nameElement)
+    shrinkingSchoolsListElement.appendChild(liElement)
+
+}
+
 
 // above code was attempt to follow along with ricardo's example but applying my own school focus (stopped following him, but current amount seems reasonably illustrative)
 // burger-project-2 on Ricardo's github has the full project
@@ -33,6 +53,8 @@ function addSchoolToList(school) {
 
 // const cryptocurrencyListElement = document.getElementById('cryptocurrency-list')
 const filterByStateCodeElement = document.getElementById("filter-by-state-code")
+const growingSchoolsListElement = document.getElementById("growing-schools-list")
+const shrinkingSchoolsListElement = document.getElementById("shrinking-schools-list")
 
 
 // fetch("http://localhost:3000/schools")
@@ -57,19 +79,30 @@ const filterByStateCodeElement = document.getElementById("filter-by-state-code")
 // }
 
 function displaySchoolData(schools) {
-    // schoolsListElement.innerHTML = ""
+    growingSchoolsListElement.textContent = "Schools with the biggest increases in enrollment"
+    shrinkingSchoolsListElement.textContent = "Schools with the biggest decreases in enrollment"
     if(filterByStateCodeElement.value === "AK") {
         schools.forEach(school => {
             if(school.statecode === "AK") {
-                addSchoolToList(school)
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+            else if(school.enrollment_change < 0) {
+                addSchoolToShrinkingList(school)
+            }   
             }
         })
     }
     else if (filterByStateCodeElement.value === "AL") {
         schools.forEach(school => {
             if(school.statecode === "AL") {
-            addSchoolToList(school)
-        }
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+            else if(school.enrollment_change < 0) {
+                addSchoolToShrinkingList(school)
+            }   
+            }
         })
         
         
@@ -77,15 +110,25 @@ function displaySchoolData(schools) {
     else if (filterByStateCodeElement.value === "AR") {
         schools.forEach(school => {
             if(school.statecode === "AR") {
-            addSchoolToList(school)
-        }
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+            else if(school.enrollment_change < 0) {
+                addSchoolToShrinkingList(school)
+            }   
+            }
         })
     }
     else if (filterByStateCodeElement.value === "AZ") {
         schools.forEach(school => {
             if(school.statecode === "AZ") {
-            addSchoolToList(school)
-        }
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+            else if(school.enrollment_change < 0) {
+                addSchoolToShrinkingList(school)
+            }   
+            }
         })
     }
     // console.log(cryptocurrencyFilterElement.value)
