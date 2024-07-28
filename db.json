@@ -6,8 +6,8 @@
             "statecode": "AK",
             "city": "Eagle River",
             "zipcode": 99577,
-            "2023_enrollment": 229,
-            "2020_enrollment": 403,
+            "enrollment2023": 229,
+            "enrollment2020": 403,
             "enrollment_change": -174,
             "charter": false,
             "change_type": "shrunk"
@@ -19,8 +19,8 @@
             "statecode": "AK",
             "city": "Fairbanks",
             "zipcode": 99709,
-            "2023_enrollment": 341,
-            "2020_enrollment": 479,
+            "enrollment2023": 341,
+            "enrollment2020": 479,
             "enrollment_change": -138,
             "charter": false,
             "change_type": "shrunk"
@@ -32,8 +32,8 @@
             "statecode": "AK",
             "city": "Utqiagvik",
             "zipcode": 99723,
-            "2023_enrollment": 539,
-            "2020_enrollment": 664,
+            "enrollment2023": 539,
+            "enrollment2020": 664,
             "enrollment_change": -125,
             "charter": false,
             "change_type": "shrunk"
@@ -45,8 +45,8 @@
             "statecode": "AK",
             "city": "Eagle River",
             "zipcode": 99567,
-            "2023_enrollment": 205,
-            "2020_enrollment": 321,
+            "enrollment2023": 205,
+            "enrollment2020": 321,
             "enrollment_change": -116,
             "charter": false,
             "change_type": "shrunk"
@@ -58,8 +58,8 @@
             "statecode": "AK",
             "city": "Chugiak",
             "zipcode": 99567,
-            "2023_enrollment": 563,
-            "2020_enrollment": 677,
+            "enrollment2023": 563,
+            "enrollment2020": 677,
             "enrollment_change": -114,
             "charter": false,
             "change_type": "shrunk"
@@ -71,8 +71,8 @@
             "statecode": "AK",
             "city": "Wasilla",
             "zipcode": 99654,
-            "2023_enrollment": 2254,
-            "2020_enrollment": 1786,
+            "enrollment2023": 2254,
+            "enrollment2020": 1786,
             "enrollment_change": 468,
             "charter": false,
             "change_type": "grew"
@@ -84,8 +84,8 @@
             "statecode": "AK",
             "city": "Fairbanks",
             "zipcode": 99701,
-            "2023_enrollment": 801,
-            "2020_enrollment": 274,
+            "enrollment2023": 801,
+            "enrollment2020": 274,
             "enrollment_change": 527,
             "charter": false,
             "change_type": "grew"
@@ -97,8 +97,8 @@
             "statecode": "AK",
             "city": "Anchorage",
             "zipcode": 99503,
-            "2023_enrollment": 1740,
-            "2020_enrollment": 694,
+            "enrollment2023": 1740,
+            "enrollment2020": 694,
             "enrollment_change": 1046,
             "charter": true,
             "change_type": "grew"
@@ -110,8 +110,8 @@
             "statecode": "AK",
             "city": "Fairbanks",
             "zipcode": 99709,
-            "2023_enrollment": 2771,
-            "2020_enrollment": 1671,
+            "enrollment2023": 2771,
+            "enrollment2020": 1671,
             "enrollment_change": 1100,
             "charter": false,
             "change_type": "grew"
@@ -123,8 +123,8 @@
             "statecode": "AK",
             "city": "Fairbanks",
             "zipcode": 99701,
-            "2023_enrollment": 6899,
-            "2020_enrollment": 5027,
+            "enrollment2023": 6899,
+            "enrollment2020": 5027,
             "enrollment_change": 1872,
             "charter": true,
             "change_type": "grew"
@@ -136,8 +136,8 @@
             "statecode": "AL",
             "city": "Florence",
             "zipcode": 35633,
-            "2023_enrollment": 603,
-            "2020_enrollment": 1310,
+            "enrollment2023": 603,
+            "enrollment2020": 1310,
             "enrollment_change": -707,
             "charter": false
 
@@ -148,8 +148,8 @@
             "statecode": "AL",
             "city": "Rogersville",
             "zipcode": 35652,
-            "2023_enrollment": 543,
-            "2020_enrollment": 1202,
+            "enrollment2023": 543,
+            "enrollment2020": 1202,
             "enrollment_change": -659,
             "charter": true
 
@@ -160,8 +160,8 @@
             "statecode": "AL",
             "city": "Florence",
             "zipcode": 35634,
-            "2023_enrollment": 555,
-            "2020_enrollment": 1197,
+            "enrollment2023": 555,
+            "enrollment2020": 1197,
             "enrollment_change": -642,
             "charter": false
 
@@ -172,8 +172,8 @@
             "statecode": "AL",
             "city": "Florence",
             "zipcode": 35634,
-            "2023_enrollment": 671,
-            "2020_enrollment": 1267,
+            "enrollment2023": 671,
+            "enrollment2020": 1267,
             "enrollment_change": -596,
             "charter": false
 
@@ -184,8 +184,8 @@
             "statecode": "AL",
             "city": "Newton",
             "zipcode": 36352,
-            "2023_enrollment": 471,
-            "2020_enrollment": 1016,
+            "enrollment2023": 471,
+            "enrollment2020": 1016,
             "enrollment_change": -545,
             "charter": false
 
@@ -196,8 +196,8 @@
             "statecode": "AL",
             "city": "Hueytown",
             "zipcode": 35023,
-            "2023_enrollment": 653,
-            "2020_enrollment": 328,
+            "enrollment2023": 653,
+            "enrollment2020": 328,
             "enrollment_change": 325,
             "charter": false
 
@@ -208,8 +208,8 @@
             "statecode": "AL",
             "city": "Foley",
             "zipcode": 36535,
-            "2023_enrollment": 915,
-            "2020_enrollment": 549,
+            "enrollment2023": 915,
+            "enrollment2020": 549,
             "enrollment_change": 366,
             "charter": false
 
@@ -220,8 +220,8 @@
             "statecode": "AL",
             "city": "Bessemer",
             "zipcode": 35022,
-            "2023_enrollment": 697,
-            "2020_enrollment": 260,
+            "enrollment2023": 697,
+            "enrollment2020": 260,
             "enrollment_change": 437,
             "charter": false
 
@@ -232,8 +232,8 @@
             "statecode": "AL",
             "city": "Madison",
             "zipcode": 35758,
-            "2023_enrollment": 999,
-            "2020_enrollment": 486,
+            "enrollment2023": 999,
+            "enrollment2020": 486,
             "enrollment_change": 513,
             "charter": false
 
@@ -244,8 +244,8 @@
             "statecode": "AL",
             "city": "Eufaula",
             "zipcode": 36027,
-            "2023_enrollment": 3901,
-            "2020_enrollment": 3024,
+            "enrollment2023": 3901,
+            "enrollment2020": 3024,
             "enrollment_change": 877,
             "charter": false
 
@@ -256,8 +256,8 @@
             "statecode": "AR",
             "city": "SHERWOOD",
             "zipcode": 72120,
-            "2023_enrollment": 1017,
-            "2020_enrollment": 1428,
+            "enrollment2023": 1017,
+            "enrollment2020": 1428,
             "enrollment_change": -411,
             "charter": false
 
@@ -268,8 +268,8 @@
             "statecode": "AR",
             "city": "CLARKSVILLE",
             "zipcode": 72830,
-            "2023_enrollment": 374,
-            "2020_enrollment": 773,
+            "enrollment2023": 374,
+            "enrollment2020": 773,
             "enrollment_change": -399,
             "charter": false
 
@@ -280,8 +280,8 @@
             "statecode": "AR",
             "city": "PINE BLUFF",
             "zipcode": 71601,
-            "2023_enrollment": 583,
-            "2020_enrollment": 903,
+            "enrollment2023": 583,
+            "enrollment2020": 903,
             "enrollment_change": -320,
             "charter": false
 
@@ -292,8 +292,8 @@
             "statecode": "AR",
             "city": "HOT SPRINGS",
             "zipcode": 71901,
-            "2023_enrollment": 553,
-            "2020_enrollment": 831,
+            "enrollment2023": 553,
+            "enrollment2020": 831,
             "enrollment_change": -278,
             "charter": false
 
@@ -304,8 +304,8 @@
             "statecode": "AR",
             "city": "BENTONVILLE",
             "zipcode": 72713,
-            "2023_enrollment": 597,
-            "2020_enrollment": 857,
+            "enrollment2023": 597,
+            "enrollment2020": 857,
             "enrollment_change": -260,
             "charter": false
 
@@ -317,8 +317,8 @@
             "statecode": "AR",
             "city": "LITTLE ROCK",
             "zipcode": 72211,
-            "2023_enrollment": 997,
-            "2020_enrollment": 697,
+            "enrollment2023": 997,
+            "enrollment2020": 697,
             "enrollment_change": 300,
             "charter": true
 
@@ -329,8 +329,8 @@
             "statecode": "AR",
             "city": "HOT SPRINGS",
             "zipcode": 71913,
-            "2023_enrollment": 815,
-            "2020_enrollment": 478,
+            "enrollment2023": 815,
+            "enrollment2020": 478,
             "enrollment_change": 337,
             "charter": true
 
@@ -341,8 +341,8 @@
             "statecode": "AR",
             "city": "LITTLE ROCK",
             "zipcode": 72211,
-            "2023_enrollment": 1041,
-            "2020_enrollment": 669,
+            "enrollment2023": 1041,
+            "enrollment2020": 669,
             "enrollment_change": 372,
             "charter": true
 
@@ -353,8 +353,8 @@
             "statecode": "AR",
             "city": "FORT SMITH",
             "zipcode": 72901,
-            "2023_enrollment": 2433,
-            "2020_enrollment": 1820,
+            "enrollment2023": 2433,
+            "enrollment2020": 1820,
             "enrollment_change": 613,
             "charter": false
 
@@ -365,8 +365,8 @@
             "statecode": "AR",
             "city": "FORT SMITH",
             "zipcode": 72903,
-            "2023_enrollment": 1956,
-            "2020_enrollment": 1342,
+            "enrollment2023": 1956,
+            "enrollment2020": 1342,
             "enrollment_change": 614,
             "charter": false
 
@@ -377,8 +377,8 @@
             "statecode": "AZ",
             "city": "GILBERT",
             "zipcode": 85297,
-            "2023_enrollment": 2822,
-            "2020_enrollment": 3573,
+            "enrollment2023": 2822,
+            "enrollment2020": 3573,
             "enrollment_change": -751,
             "charter": false
 
@@ -389,8 +389,8 @@
             "statecode": "AZ",
             "city": "PHOENIX",
             "zipcode": 85031,
-            "2023_enrollment": 184,
-            "2020_enrollment": 912,
+            "enrollment2023": 184,
+            "enrollment2020": 912,
             "enrollment_change": -728,
             "charter": false
 
@@ -401,8 +401,8 @@
             "statecode": "AZ",
             "city": "QUEEN CREEK",
             "zipcode": 85142,
-            "2023_enrollment": 241,
-            "2020_enrollment": 901,
+            "enrollment2023": 241,
+            "enrollment2020": 901,
             "enrollment_change": -660,
             "charter": false
 
@@ -413,8 +413,8 @@
             "statecode": "AZ",
             "city": "PHOENIX",
             "zipcode": 85044,
-            "2023_enrollment": 1716,
-            "2020_enrollment": 2314,
+            "enrollment2023": 1716,
+            "enrollment2020": 2314,
             "enrollment_change": -598,
             "charter": false
 
@@ -425,8 +425,8 @@
             "statecode": "AZ",
             "city": "SCOTTSDALE",
             "zipcode": 85257,
-            "2023_enrollment": 442,
-            "2020_enrollment": 920,
+            "enrollment2023": 442,
+            "enrollment2020": 920,
             "enrollment_change": -478,
             "charter": false
 
@@ -437,8 +437,8 @@
             "statecode": "AZ",
             "city": "CHANDLER",
             "zipcode": 85249,
-            "2023_enrollment": 1775,
-            "2020_enrollment": 815,
+            "enrollment2023": 1775,
+            "enrollment2020": 815,
             "enrollment_change": 960,
             "charter": false
 
@@ -449,8 +449,8 @@
             "statecode": "AZ",
             "city": "PHOENIX",
             "zipcode": 85004,
-            "2023_enrollment": 5122,
-            "2020_enrollment": 3910,
+            "enrollment2023": 5122,
+            "enrollment2020": 3910,
             "enrollment_change": 1212,
             "charter": true
 
@@ -461,8 +461,8 @@
             "statecode": "AZ",
             "city": "Chandler",
             "zipcode": 85225,
-            "2023_enrollment": 6392,
-            "2020_enrollment": 4785,
+            "enrollment2023": 6392,
+            "enrollment2020": 4785,
             "enrollment_change": 1607,
             "charter": true
 
@@ -473,8 +473,8 @@
             "statecode": "AZ",
             "city": "AVONDALE",
             "zipcode": 85392,
-            "2023_enrollment": 3033,
-            "2020_enrollment": 1118,
+            "enrollment2023": 3033,
+            "enrollment2020": 1118,
             "enrollment_change": 1915,
             "charter": false
 
@@ -485,8 +485,8 @@
             "statecode": "AZ",
             "city": "Mesa",
             "zipcode": 85204,
-            "2023_enrollment": 3083,
-            "2020_enrollment": 1090,
+            "enrollment2023": 3083,
+            "enrollment2020": 1090,
             "enrollment_change": 1993,
             "charter": true
 
@@ -497,8 +497,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -509,8 +509,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -521,8 +521,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -533,8 +533,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -545,8 +545,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -557,8 +557,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -569,8 +569,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -581,8 +581,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -593,8 +593,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -605,8 +605,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
@@ -617,8 +617,8 @@
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
-            "2023_enrollment": 42,
-            "2020_enrollment": 42,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
             "enrollment_change": 0,
             "charter": true
 
