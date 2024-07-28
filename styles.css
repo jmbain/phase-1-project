@@ -1,13 +1,16 @@
 body {
     background-color: black;
     text-align: center;
-    font-style: italic;
 }
 
 h1 {
     color:aquamarine
 }
 
+h3 {
+    color:whitesmoke
+}
+
 li {
-    color:aquamarine
+    color:whitesmoke
 }
