@@ -8,7 +8,9 @@
     <body>
         <h1>School Data</h1>
         <h2>Filter by State Code</h2>
+        
         <br>
+        
         <select id="filter-by-state-code">
             <option>Select a state code</option>
             <option value="AK">AK</option>
@@ -17,8 +19,31 @@
             <option value="AZ">AZ</option>
         </select>
         <h3>Which schools have had the biggest enrollment changes since the onset of the pandemic?</h3>
+        
         <br>
+        
         <ul id="growing-schools-list" style="display: inline-block; color: green">Schools with the biggest increases in enrollment</ul>
         <ul id="shrinking-schools-list" style="display: inline-block; color:red">Schools with the biggest decreases in enrollment</ul>
+
+        <br>
+        <br>
+
+        <table>
+            <colgroup>
+                <col style="background-color: gainsboro;">
+                <col style="background-color: gainsboro;">
+                <col style="background-color: gainsboro;">
+            </colgroup>
+            <tr>
+                <th>2020 enrollment</th>
+                <th>2023 enrollment</th>
+                <th>Enrollment change since pandemic</th>
+            </tr>
+            <tr id="school-level-data">
+                <td id="td-2020-enrollment"></td>
+                <td id="td-2023-enrollment"></td>
+                <td id="td-enrollment-change"></td>
+            </tr>
+        </table>
     </body>
 </html>
