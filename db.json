@@ -2,9 +2,627 @@
     "schools": [
         {
             "id": 1,
-            "name": "Flatiron School",
-            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlatiron_School&psig=AOvVaw1k0S7In-4mQBcsJcnGWa-W&ust=1721923314319000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC06bWGwIcDFQAAAAAdAAAAABAE",
-            "price": 100.00
+            "name": "Fire Lake Elementary",
+            "state_code": "AK",
+            "city": "Eagle River",
+            "zipcode": 99577,
+            "2023_enrollment": 229,
+            "2020_enrollment": 403,
+            "enrollment_change": -174,
+            "charter": false,
+            "change_type": "shrunk"
+            
+        },
+        {
+            "id": 2,
+            "name": "Woodriver Elementary",
+            "state_code": "AK",
+            "city": "Fairbanks",
+            "zipcode": 99709,
+            "2023_enrollment": 341,
+            "2020_enrollment": 479,
+            "enrollment_change": -138,
+            "charter": false,
+            "change_type": "shrunk"
+
+        },
+        {
+            "id": 3,
+            "name": "Fred Ipalook Elementary",
+            "state_code": "AK",
+            "city": "Utqiagvik",
+            "zipcode": 99723,
+            "2023_enrollment": 539,
+            "2020_enrollment": 664,
+            "enrollment_change": -125,
+            "charter": false,
+            "change_type": "shrunk"
+
+        },
+        {
+            "id": 4,
+            "name": "Birchwood ABC Elementary",
+            "state_code": "AK",
+            "city": "Eagle River",
+            "zipcode": 99567,
+            "2023_enrollment": 205,
+            "2020_enrollment": 321,
+            "enrollment_change": -116,
+            "charter": false,
+            "change_type": "shrunk"
+
+        },
+        {
+            "id": 5,
+            "name": "Mirror Lake Middle School",
+            "state_code": "AK",
+            "city": "Chugiak",
+            "zipcode": 99567,
+            "2023_enrollment": 563,
+            "2020_enrollment": 677,
+            "enrollment_change": -114,
+            "charter": false,
+            "change_type": "shrunk"
+
+        },
+        {
+            "id": 6,
+            "name": "Mat-Su Central School",
+            "state_code": "AK",
+            "city": "Wasilla",
+            "zipcode": 99654,
+            "2023_enrollment": 2254,
+            "2020_enrollment": 1786,
+            "enrollment_change": 468,
+            "charter": false,
+            "change_type": "grew"
+
+        },
+        {
+            "id": 7,
+            "name": "Fairbanks B.E.S.T.",
+            "state_code": "AK",
+            "city": "Fairbanks",
+            "zipcode": 99701,
+            "2023_enrollment": 801,
+            "2020_enrollment": 274,
+            "enrollment_change": 527,
+            "charter": false,
+            "change_type": "grew"
+
+        },
+        {
+            "id": 8,
+            "name": "Family Partnership Charter School",
+            "state_code": "AK",
+            "city": "Anchorage",
+            "zipcode": 99503,
+            "2023_enrollment": 1740,
+            "2020_enrollment": 694,
+            "enrollment_change": 1046,
+            "charter": true,
+            "change_type": "grew"
+
+        },
+        {
+            "id": 9,
+            "name": "Raven School",
+            "state_code": "AK",
+            "city": "Fairbanks",
+            "zipcode": 99709,
+            "2023_enrollment": 2771,
+            "2020_enrollment": 1671,
+            "enrollment_change": 1100,
+            "charter": false,
+            "change_type": "grew"
+
+        },
+        {
+            "id": 10,
+            "name": "Interior Distance Education of Alaska (IDEA)",
+            "state_code": "AK",
+            "city": "Fairbanks",
+            "zipcode": 99701,
+            "2023_enrollment": 6899,
+            "2020_enrollment": 5027,
+            "enrollment_change": 1872,
+            "charter": true,
+            "change_type": "grew"
+
+        },
+        {
+            "id": 11,
+            "name": "Central High School",
+            "state_code": "AL",
+            "city": "Florence",
+            "zipcode": 35633,
+            "2023_enrollment": 603,
+            "2020_enrollment": 1310,
+            "enrollment_change": -707,
+            "charter": false
+
+        },
+        {
+            "id": 12,
+            "name": "Lauderdale County High School",
+            "state_code": "AL",
+            "city": "Rogersville",
+            "zipcode": 35652,
+            "2023_enrollment": 543,
+            "2020_enrollment": 1202,
+            "enrollment_change": -659,
+            "charter": true
+
+        },
+        {
+            "id": 13,
+            "name": "Rogers High School",
+            "state_code": "AL",
+            "city": "Florence",
+            "zipcode": 35634,
+            "2023_enrollment": 555,
+            "2020_enrollment": 1197,
+            "enrollment_change": -642,
+            "charter": false
+
+        },
+        {
+            "id": 14,
+            "name": "Wilson High School",
+            "state_code": "AL",
+            "city": "Florence",
+            "zipcode": 35634,
+            "2023_enrollment": 671,
+            "2020_enrollment": 1267,
+            "enrollment_change": -596,
+            "charter": false
+
+        },
+        {
+            "id": 15,
+            "name": "Wicksburg High School",
+            "state_code": "AL",
+            "city": "Newton",
+            "zipcode": 36352,
+            "2023_enrollment": 471,
+            "2020_enrollment": 1016,
+            "enrollment_change": -545,
+            "charter": false
+
+        },
+        {
+            "id": 16,
+            "name": "Hueytown Primary School",
+            "state_code": "AL",
+            "city": "Hueytown",
+            "zipcode": 35023,
+            "2023_enrollment": 653,
+            "2020_enrollment": 328,
+            "enrollment_change": 325,
+            "charter": false
+
+        },
+        {
+            "id": 17,
+            "name": "Florence B Mathis Elementary",
+            "state_code": "AL",
+            "city": "Foley",
+            "zipcode": 36535,
+            "2023_enrollment": 915,
+            "2020_enrollment": 549,
+            "enrollment_change": 366,
+            "charter": false
+
+        },
+        {
+            "id": 18,
+            "name": "McCalla Elementary School",
+            "state_code": "AL",
+            "city": "Bessemer",
+            "zipcode": 35022,
+            "2023_enrollment": 697,
+            "2020_enrollment": 260,
+            "enrollment_change": 437,
+            "charter": false
+
+        },
+        {
+            "id": 19,
+            "name": "MidTown Elementary School",
+            "state_code": "AL",
+            "city": "Madison",
+            "zipcode": 35758,
+            "2023_enrollment": 999,
+            "2020_enrollment": 486,
+            "enrollment_change": 513,
+            "charter": false
+
+        },
+        {
+            "id": 20,
+            "name": "Alabama Virtual Academy at Eufaula City Schools",
+            "state_code": "AL",
+            "city": "Eufaula",
+            "zipcode": 36027,
+            "2023_enrollment": 3901,
+            "2020_enrollment": 3024,
+            "enrollment_change": 877,
+            "charter": false
+
+        },
+        {
+            "id": 21,
+            "name": "SYLVAN HILLS HIGH SCHOOL",
+            "state_code": "AR",
+            "city": "SHERWOOD",
+            "zipcode": 72120,
+            "2023_enrollment": 1017,
+            "2020_enrollment": 1428,
+            "enrollment_change": -411,
+            "charter": false
+
+        },
+        {
+            "id": 22,
+            "name": "CLARKSVILLE ELEMENTARY SCHOOL",
+            "state_code": "AR",
+            "city": "CLARKSVILLE",
+            "zipcode": 72830,
+            "2023_enrollment": 374,
+            "2020_enrollment": 773,
+            "enrollment_change": -399,
+            "charter": false
+
+        },
+        {
+            "id": 23,
+            "name": "PINE BLUFF HIGH SCHOOL",
+            "state_code": "AR",
+            "city": "PINE BLUFF",
+            "zipcode": 71601,
+            "2023_enrollment": 583,
+            "2020_enrollment": 903,
+            "enrollment_change": -320,
+            "charter": false
+
+        },
+        {
+            "id": 24,
+            "name": "LAKESIDE MIDDLE SCHOOL",
+            "state_code": "AR",
+            "city": "HOT SPRINGS",
+            "zipcode": 71901,
+            "2023_enrollment": 553,
+            "2020_enrollment": 831,
+            "enrollment_change": -278,
+            "charter": false
+
+        },
+        {
+            "id": 25,
+            "name": "WILLOWBROOK ELEMENTARY SCHOOL",
+            "state_code": "AR",
+            "city": "BENTONVILLE",
+            "zipcode": 72713,
+            "2023_enrollment": 597,
+            "2020_enrollment": 857,
+            "enrollment_change": -260,
+            "charter": false
+
+
+        },
+        {
+            "id": 26,
+            "name": "ARKANSAS VIRTUAL ACADEMY JR",
+            "state_code": "AR",
+            "city": "LITTLE ROCK",
+            "zipcode": 72211,
+            "2023_enrollment": 997,
+            "2020_enrollment": 697,
+            "enrollment_change": 300,
+            "charter": true
+
+        },
+        {
+            "id": 27,
+            "name": "HOT SPRINGS JUNIOR ACADEMY",
+            "state_code": "AR",
+            "city": "HOT SPRINGS",
+            "zipcode": 71913,
+            "2023_enrollment": 815,
+            "2020_enrollment": 478,
+            "enrollment_change": 337,
+            "charter": true
+
+        },
+        {
+            "id": 28,
+            "name": "ARKANSAS VIRTUAL ACADEMY",
+            "state_code": "AR",
+            "city": "LITTLE ROCK",
+            "zipcode": 72211,
+            "2023_enrollment": 1041,
+            "2020_enrollment": 669,
+            "enrollment_change": 372,
+            "charter": true
+
+        },
+        {
+            "id": 29,
+            "name": "NORTHSIDE HIGH SCHOOL",
+            "state_code": "AR",
+            "city": "FORT SMITH",
+            "zipcode": 72901,
+            "2023_enrollment": 2433,
+            "2020_enrollment": 1820,
+            "enrollment_change": 613,
+            "charter": false
+
+        },
+        {
+            "id": 30,
+            "name": "SOUTHSIDE HIGH SCHOOL",
+            "state_code": "AR",
+            "city": "FORT SMITH",
+            "zipcode": 72903,
+            "2023_enrollment": 1956,
+            "2020_enrollment": 1342,
+            "enrollment_change": 614,
+            "charter": false
+
+        },
+        {
+            "id": 31,
+            "name": "Perry High School",
+            "state_code": "AZ",
+            "city": "GILBERT",
+            "zipcode": 85297,
+            "2023_enrollment": 2822,
+            "2020_enrollment": 3573,
+            "enrollment_change": -751,
+            "charter": false
+
+        },
+        {
+            "id": 32,
+            "name": "Marc T. Atkinson Middle School & Gifted Academy",
+            "state_code": "AZ",
+            "city": "PHOENIX",
+            "zipcode": 85031,
+            "2023_enrollment": 184,
+            "2020_enrollment": 912,
+            "enrollment_change": -728,
+            "charter": false
+
+        },
+        {
+            "id": 33,
+            "name": "Newell Barney Junior High",
+            "state_code": "AZ",
+            "city": "QUEEN CREEK",
+            "zipcode": 85142,
+            "2023_enrollment": 241,
+            "2020_enrollment": 901,
+            "enrollment_change": -660,
+            "charter": false
+
+        },
+        {
+            "id": 34,
+            "name": "Mountain Pointe High School",
+            "state_code": "AZ",
+            "city": "PHOENIX",
+            "zipcode": 85044,
+            "2023_enrollment": 1716,
+            "2020_enrollment": 2314,
+            "enrollment_change": -598,
+            "charter": false
+
+        },
+        {
+            "id": 35,
+            "name": "Tonalea Middle School",
+            "state_code": "AZ",
+            "city": "SCOTTSDALE",
+            "zipcode": 85257,
+            "2023_enrollment": 442,
+            "2020_enrollment": 920,
+            "enrollment_change": -478,
+            "charter": false
+
+        },
+        {
+            "id": 36,
+            "name": "Arizona College Prep High School",
+            "state_code": "AZ",
+            "city": "CHANDLER",
+            "zipcode": 85249,
+            "2023_enrollment": 1775,
+            "2020_enrollment": 815,
+            "enrollment_change": 960,
+            "charter": false
+
+        },
+        {
+            "id": 37,
+            "name": "Arizona Virtual Academy",
+            "state_code": "AZ",
+            "city": "PHOENIX",
+            "zipcode": 85004,
+            "2023_enrollment": 5122,
+            "2020_enrollment": 3910,
+            "enrollment_change": 1212,
+            "charter": true
+
+        },
+        {
+            "id": 38,
+            "name": "Primavera - Online",
+            "state_code": "AZ",
+            "city": "Chandler",
+            "zipcode": 85225,
+            "2023_enrollment": 6392,
+            "2020_enrollment": 4785,
+            "enrollment_change": 1607,
+            "charter": true
+
+        },
+        {
+            "id": 39,
+            "name": "West Point High School",
+            "state_code": "AZ",
+            "city": "AVONDALE",
+            "zipcode": 85392,
+            "2023_enrollment": 3033,
+            "2020_enrollment": 1118,
+            "enrollment_change": 1915,
+            "charter": false
+
+        },
+        {
+            "id": 40,
+            "name": "Sequoia Choice School Arizona Distance Learning School",
+            "state_code": "AZ",
+            "city": "Mesa",
+            "zipcode": 85204,
+            "2023_enrollment": 3083,
+            "2020_enrollment": 1090,
+            "enrollment_change": 1993,
+            "charter": true
+
+        },
+        {
+            "id": 41,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 42,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 43,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 44,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 45,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 46,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 47,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 48,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 49,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 50,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 51,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "state_code": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "2023_enrollment": 42,
+            "2020_enrollment": 42,
+            "enrollment_change": 0,
+            "charter": true
+
         }
+
     ]
 }
