@@ -12,5 +12,14 @@ h3 {
 }
 
 li {
-    color:whitesmoke
+    color:whitesmoke;
+    border: whitesmoke;
+    text-align: left
+}
+
+table {
+    background-color: grey;
+    margin-left:auto;
+    margin-right: auto;
+    border: black 10px;
 }
