@@ -9,8 +9,7 @@
             "enrollment2023": 229,
             "enrollment2020": 403,
             "enrollment_change": -174,
-            "charter": false,
-            "change_type": "shrunk"
+            "charter": false
             
         },
         {
@@ -22,8 +21,7 @@
             "enrollment2023": 341,
             "enrollment2020": 479,
             "enrollment_change": -138,
-            "charter": false,
-            "change_type": "shrunk"
+            "charter": false
 
         },
         {
@@ -35,8 +33,7 @@
             "enrollment2023": 539,
             "enrollment2020": 664,
             "enrollment_change": -125,
-            "charter": false,
-            "change_type": "shrunk"
+            "charter": false
 
         },
         {
@@ -48,8 +45,7 @@
             "enrollment2023": 205,
             "enrollment2020": 321,
             "enrollment_change": -116,
-            "charter": false,
-            "change_type": "shrunk"
+            "charter": false
 
         },
         {
@@ -61,8 +57,7 @@
             "enrollment2023": 563,
             "enrollment2020": 677,
             "enrollment_change": -114,
-            "charter": false,
-            "change_type": "shrunk"
+            "charter": false
 
         },
         {
@@ -74,8 +69,7 @@
             "enrollment2023": 2254,
             "enrollment2020": 1786,
             "enrollment_change": 468,
-            "charter": false,
-            "change_type": "grew"
+            "charter": false
 
         },
         {
@@ -87,8 +81,7 @@
             "enrollment2023": 801,
             "enrollment2020": 274,
             "enrollment_change": 527,
-            "charter": false,
-            "change_type": "grew"
+            "charter": false
 
         },
         {
@@ -100,8 +93,7 @@
             "enrollment2023": 1740,
             "enrollment2020": 694,
             "enrollment_change": 1046,
-            "charter": true,
-            "change_type": "grew"
+            "charter": true
 
         },
         {
@@ -113,8 +105,7 @@
             "enrollment2023": 2771,
             "enrollment2020": 1671,
             "enrollment_change": 1100,
-            "charter": false,
-            "change_type": "grew"
+            "charter": false
 
         },
         {
@@ -126,8 +117,7 @@
             "enrollment2023": 6899,
             "enrollment2020": 5027,
             "enrollment_change": 1872,
-            "charter": true,
-            "change_type": "grew"
+            "charter": true
 
         },
         {
@@ -733,464 +723,488 @@
         },
         {
             "id": 61,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "Bedford Middle School",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "Westport",
+            "zipcode": 6880,
+            "enrollment2023": 729,
+            "enrollment2020": 1259,
+            "enrollment_change": -530,
+            "charter": false
 
         },
         {
             "id": 62,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "Burr Middle School",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "Hartford",
+            "zipcode": 6114,
+            "enrollment2023": 277,
+            "enrollment2020": 579,
+            "enrollment_change": -302,
+            "charter": false
 
         },
         {
             "id": 63,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "Kinsella Magnet School of Performing Arts: PK-8 Campus",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "Hartford",
+            "zipcode": 6106,
+            "enrollment2023": 465,
+            "enrollment2020": 711,
+            "enrollment_change": -246,
+            "charter": false
 
         },
         {
             "id": 64,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "East Hartford Middle School",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "East Hartford",
+            "zipcode": 6108,
+            "enrollment2023": 890,
+            "enrollment2020": 1133,
+            "enrollment_change": -243,
+            "charter": false
 
         },
         {
             "id": 65,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "North End Middle School",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "Waterbury",
+            "zipcode": 6704,
+            "enrollment2023": 692,
+            "enrollment2020": 900,
+            "enrollment_change": -208,
+            "charter": false
 
         },
         {
             "id": 66,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "Crosby High School",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "Waterbury",
+            "zipcode": 6705,
+            "enrollment2023": 1400,
+            "enrollment2020": 1138,
+            "enrollment_change": 262,
+            "charter": false
 
         },
         {
             "id": 67,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "Danbury High School",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "Danbury",
+            "zipcode": 6811,
+            "enrollment2023": 3590,
+            "enrollment2020": 3292,
+            "enrollment_change": 298,
+            "charter": false
 
         },
         {
             "id": 68,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "Beman Middle School",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "Middletown",
+            "zipcode": 6457,
+            "enrollment2023": 968,
+            "enrollment2020": 618,
+            "enrollment_change": 350,
+            "charter": false
 
         },
         {
             "id": 69,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "Waterbury Arts Magnet School",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "Waterbury",
+            "zipcode": 6706,
+            "enrollment2023": 821,
+            "enrollment2020": 455,
+            "enrollment_change": 366,
+            "charter": false
 
         },
         {
             "id": 70,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "name": "Ana Grace Academy of the Arts",
             "statecode": "CT",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "city": "Bloomfield",
+            "zipcode": 6002,
+            "enrollment2023": 863,
+            "enrollment2020": 478,
+            "enrollment_change": 385,
+            "charter": false
 
         },
         {
             "id": 71,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Middletown High School",
+            "statecode": "DE",
+            "city": "Middletown",
+            "zipcode": 19709,
+            "enrollment2023": 1355,
+            "enrollment2020": 1776,
+            "enrollment_change": -421,
+            "charter": false
 
         },
         {
             "id": 72,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "F. Niel Postlethwait Middle School",
+            "statecode": "DE",
+            "city": "Camden",
+            "zipcode": 19934,
+            "enrollment2023": 629,
+            "enrollment2020": 968,
+            "enrollment_change": -339,
+            "charter": false
 
         },
         {
             "id": 73,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Redding (Louis L.) Middle School",
+            "statecode": "DE",
+            "city": "Middletown",
+            "zipcode": 19709,
+            "enrollment2023": 618,
+            "enrollment2020": 903,
+            "enrollment_change": -285,
+            "charter": false
 
         },
         {
             "id": 74,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Star Hill Elementary School",
+            "statecode": "DE",
+            "city": "Dover",
+            "zipcode": 19901,
+            "enrollment2023": 147,
+            "enrollment2020": 428,
+            "enrollment_change": -281,
+            "charter": false
 
         },
         {
             "id": 75,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Marshall (Thurgood) Elementary School",
+            "statecode": "DE",
+            "city": "Newark",
+            "zipcode": 19702,
+            "enrollment2023": 556,
+            "enrollment2020": 787,
+            "enrollment_change": -231,
+            "charter": false
 
         },
         {
             "id": 76,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
+            "name": "Newark Charter School",
+            "statecode": "DE",
+            "city": "Newark",
+            "zipcode": 19711,
+            "enrollment2023": 2987,
+            "enrollment2020": 2412,
+            "enrollment_change": 575,
             "charter": true
 
         },
         {
             "id": 77,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
+            "name": "Las Americas ASPIRA Academy",
+            "statecode": "DE",
+            "city": "Newark",
+            "zipcode": 19711,
+            "enrollment2023": 1341,
+            "enrollment2020": 946,
+            "enrollment_change": 395,
             "charter": true
 
         },
         {
             "id": 78,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Cape Henlopen High School",
+            "statecode": "DE",
+            "city": "Lewes",
+            "zipcode": 19958,
+            "enrollment2023": 1813,
+            "enrollment2020": 1506,
+            "enrollment_change": 307,
+            "charter": false
 
         },
         {
             "id": 79,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
+            "name": "Sussex Academy",
+            "statecode": "DE",
+            "city": "Georgetown",
+            "zipcode": 19947,
+            "enrollment2023": 1118,
+            "enrollment2020": 858,
+            "enrollment_change": 260,
             "charter": true
 
         },
         {
             "id": 80,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Sussex Central High School",
+            "statecode": "DE",
+            "city": "Georgetown",
+            "zipcode": 19947,
+            "enrollment2023": 2039,
+            "enrollment2020": 1803,
+            "enrollment_change": 236,
+            "charter": false
 
         },
         {
             "id": 81,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "FREEDOM HIGH",
+            "statecode": "FL",
+            "city": "ORLANDO",
+            "zipcode": 32837,
+            "enrollment2023": 2623,
+            "enrollment2020": 3829,
+            "enrollment_change": -1206,
+            "charter": false
 
         },
         {
             "id": 82,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "LENNARD HIGH SCHOOL",
+            "statecode": "FL",
+            "city": "RUSKIN",
+            "zipcode": 33570,
+            "enrollment2023": 2404,
+            "enrollment2020": 3320,
+            "enrollment_change": -916,
+            "charter": false
 
         },
         {
             "id": 83,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "WINDERMERE HIGH",
+            "statecode": "FL",
+            "city": "WINDERMERE",
+            "zipcode": 34786,
+            "enrollment2023": 3079,
+            "enrollment2020": 3956,
+            "enrollment_change": -877,
+            "charter": false
 
         },
         {
             "id": 84,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "RONALD W. REAGAN/DORAL SENIOR HIGH SCHOOL",
+            "statecode": "FL",
+            "city": "DORAL",
+            "zipcode": 33178,
+            "enrollment2023": 1591,
+            "enrollment2020": 2445,
+            "enrollment_change": -854,
+            "charter": false
 
         },
         {
             "id": 85,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "ALLEN D NEASE SENIOR HIGH SCHOOL",
+            "statecode": "FL",
+            "city": "PONTE VEDRA",
+            "zipcode": 32081,
+            "enrollment2023": 2214,
+            "enrollment2020": 2901,
+            "enrollment_change": -687,
+            "charter": false
 
         },
         {
             "id": 86,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "DIGITAL ACADEMY OF FLORIDA",
+            "statecode": "FL",
+            "city": "LABELLE",
+            "zipcode": 33935,
+            "enrollment2023": 6396,
+            "enrollment2020": 1680,
+            "enrollment_change": 4716,
+            "charter": false
 
         },
         {
             "id": 87,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "DUVAL VIRTUAL INSTRUCTION ACADEMY",
+            "statecode": "FL",
+            "city": "JACKSONVILLE",
+            "zipcode": 32217,
+            "enrollment2023": 1877,
+            "enrollment2020": 196,
+            "enrollment_change": 1681,
+            "charter": false
 
         },
         {
             "id": 88,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "FLORIDA VIRTUAL ELEMENTARY SCHOOL",
+            "statecode": "FL",
+            "city": "ORLANDO",
+            "zipcode": 32835,
+            "enrollment2023": 2600,
+            "enrollment2020": 1021,
+            "enrollment_change": 1579,
+            "charter": false
 
         },
         {
             "id": 89,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "OCVS VIRTUAL FRANCHISE",
+            "statecode": "FL",
+            "city": "ORLANDO",
+            "zipcode": 32804,
+            "enrollment2023": 1270,
+            "enrollment2020": 271,
+            "enrollment_change": 999,
+            "charter": false
 
         },
         {
             "id": 90,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "FLORIDA VIRTUAL HIGH SCHOOL",
+            "statecode": "FL",
+            "city": "ORLANDO",
+            "zipcode": 32835,
+            "enrollment2023": 3572,
+            "enrollment2020": 2680,
+            "enrollment_change": 892,
+            "charter": false
 
         },
         {
             "id": 91,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Calhoun Elementary School",
+            "statecode": "GA",
+            "city": "Calhoun",
+            "zipcode": 30701,
+            "enrollment2023": 878,
+            "enrollment2020": 1979,
+            "enrollment_change": -1101,
+            "charter": false
 
         },
         {
             "id": 92,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Gainesville Middle School East",
+            "statecode": "GA",
+            "city": "Gainesville",
+            "zipcode": 30501,
+            "enrollment2023": 841,
+            "enrollment2020": 1790,
+            "enrollment_change": -949,
+            "charter": false
 
         },
         {
             "id": 93,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Mill Creek High School",
+            "statecode": "GA",
+            "city": "Hoschton",
+            "zipcode": 30548,
+            "enrollment2023": 2839,
+            "enrollment2020": 3651,
+            "enrollment_change": -812,
+            "charter": false
 
         },
         {
             "id": 94,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Dalton High School",
+            "statecode": "GA",
+            "city": "Dalton",
+            "zipcode": 30720,
+            "enrollment2023": 1382,
+            "enrollment2020": 2050,
+            "enrollment_change": -668,
+            "charter": false
 
         },
         {
             "id": 95,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Godley Station School",
+            "statecode": "GA",
+            "city": "Savannah",
+            "zipcode": 31407,
+            "enrollment2023": 1135,
+            "enrollment2020": 1693,
+            "enrollment_change": -558,
+            "charter": false
 
         },
         {
             "id": 96,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Gwinnett Online Campus",
+            "statecode": "GA",
+            "city": "Lawrenceville",
+            "zipcode": 30043,
+            "enrollment2023": 2252,
+            "enrollment2020": 506,
+            "enrollment_change": 1746,
+            "charter": false
 
         },
         {
             "id": 97,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
+            "name": "Georgia Connections Academy",
+            "statecode": "GA",
+            "city": "Duluth",
+            "zipcode": 30097,
+            "enrollment2023": 6373,
+            "enrollment2020": 4640,
+            "enrollment_change": 1733,
             "charter": true
 
         },
         {
             "id": 98,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Appling County Elementary School",
+            "statecode": "GA",
+            "city": "Baxley",
+            "zipcode": 31513,
+            "enrollment2023": 1189,
+            "enrollment2020": 489,
+            "enrollment_change": 700,
+            "charter": false
 
         },
         {
             "id": 99,
+            "name": "Eddie White Middle School",
+            "statecode": "GA",
+            "city": "Hampton",
+            "zipcode": 30228,
+            "enrollment2023": 1438,
+            "enrollment2020": 817,
+            "enrollment_change": 621,
+            "charter": false
+
+        },
+        {
+            "id": 100,
+            "name": "Osborne High School",
+            "statecode": "GA",
+            "city": "Marietta",
+            "zipcode": 30060,
+            "enrollment2023": 2772,
+            "enrollment2020": 2180,
+            "enrollment_change": 592,
+            "charter": false
+
+        },
+        {
+            "id": 101,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "GA",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -1200,9 +1214,585 @@
 
         },
         {
-            "id": 100,
+            "id": 102,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 103,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 104,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 105,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 106,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 107,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 108,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 109,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 110,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 101,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 102,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 103,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 104,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 105,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 106,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 107,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 108,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 109,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 110,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 101,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 102,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 103,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 104,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 105,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 106,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 107,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 108,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 109,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 110,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 101,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 102,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 103,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 104,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 105,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 106,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 107,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 108,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 109,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 110,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 101,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 102,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 103,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "GA",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 104,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 105,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 106,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 107,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 108,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 109,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 110,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "HI",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
