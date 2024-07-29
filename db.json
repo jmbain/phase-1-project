@@ -493,114 +493,126 @@
         },
         {
             "id": 41,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
+            "name": "Opportunities for Learning - Baldwin Park",
+            "statecode": "CA",
+            "city": "Irwindale",
+            "zipcode": 91706,
+            "enrollment2023": 480,
+            "enrollment2020": 3185,
+            "enrollment_change": -2705,
             "charter": true
 
         },
         {
             "id": 42,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Central East High",
+            "statecode": "CA",
+            "city": "Fresno",
+            "zipcode": 93722,
+            "enrollment2023": 2061,
+            "enrollment2020": 4252,
+            "enrollment_change": -2191,
+            "charter": false
 
         },
         {
             "id": 43,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Madera South High",
+            "statecode": "CA",
+            "city": "Madera",
+            "zipcode": 93637,
+            "enrollment2023": 1994,
+            "enrollment2020": 3405,
+            "enrollment_change": -1411,
+            "charter": false
 
         },
         {
             "id": 44,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Alpine Vista",
+            "statecode": "CA",
+            "city": "Tulare",
+            "zipcode": 93274,
+            "enrollment2023": 625,
+            "enrollment2020": 1398,
+            "enrollment_change": -773,
+            "charter": false
 
         },
         {
             "id": 45,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Oakmont High",
+            "statecode": "CA",
+            "city": "Roseville",
+            "zipcode": 95661,
+            "enrollment2023": 1380,
+            "enrollment2020": 2131,
+            "enrollment_change": -751,
+            "charter": false
 
         },
         {
             "id": 46,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "Riverside Virtual",
+            "statecode": "CA",
+            "city": "Riverside",
+            "zipcode": 92501,
+            "enrollment2023": 1200,
+            "enrollment2020": 98,
+            "enrollment_change": 1102,
+            "charter": false
 
         },
         {
             "id": 47,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "San Diego High",
+            "statecode": "CA",
+            "city": "San Diego",
+            "zipcode": 92101,
+            "enrollment2023": 2105,
+            "enrollment2020": 847,
+            "enrollment_change": 1258,
+            "charter": false
 
         },
         {
             "id": 48,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
-            "charter": true
+            "name": "J. E. Young Academic Center",
+            "statecode": "CA",
+            "city": "Fresno",
+            "zipcode": 93701,
+            "enrollment2023": 1820,
+            "enrollment2020": 321,
+            "enrollment_change": 1499,
+            "charter": false
 
         },
         {
             "id": 49,
-            "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
-            "city": "REPLACE WITH ACTUAL CITY",
-            "zipcode": 12345,
-            "enrollment2023": 42,
-            "enrollment2020": 42,
-            "enrollment_change": 0,
+            "name": "California Virtual Academy @ Los Angeles",
+            "statecode": "CA",
+            "city": "Simi Valley",
+            "zipcode": 93065,
+            "enrollment2023": 5407,
+            "enrollment2020": 3684,
+            "enrollment_change": 1723,
             "charter": true
 
         },
         {
             "id": 50,
+            "name": "Highlands Community Charter",
+            "statecode": "CA",
+            "city": "Sacramento",
+            "zipcode": 95838,
+            "enrollment2023": 6749,
+            "enrollment2020": 3336,
+            "enrollment_change": 3413,
+            "charter": true
+
+        },
+        {
+            "id": 61,
             "name": "REPLACE WITH ACTUAL SCHOOL",
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
@@ -612,7 +624,463 @@
 
         },
         {
-            "id": 51,
+            "id": 62,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 63,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 64,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 65,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 66,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 67,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 68,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 69,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 70,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 71,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 72,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 73,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 74,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 75,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 76,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 77,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 78,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 79,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 80,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 81,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 82,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 83,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 84,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 85,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 86,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 87,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 88,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 89,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 90,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 91,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 92,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 93,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 94,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 95,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 96,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 97,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 98,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 99,
+            "name": "REPLACE WITH ACTUAL SCHOOL",
+            "statecode": "NY",
+            "city": "REPLACE WITH ACTUAL CITY",
+            "zipcode": 12345,
+            "enrollment2023": 42,
+            "enrollment2020": 42,
+            "enrollment_change": 0,
+            "charter": true
+
+        },
+        {
+            "id": 100,
             "name": "REPLACE WITH ACTUAL SCHOOL",
             "statecode": "NY",
             "city": "REPLACE WITH ACTUAL CITY",
@@ -623,6 +1091,5 @@
             "charter": true
 
         }
-
     ]
 }
