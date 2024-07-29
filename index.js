@@ -26,11 +26,18 @@ fetch("http://localhost:3000/schools")
 
 // }
 
+const hoveredSchoolElement = document.getElementById("hovered-school")
+const displayedSchoolElement = document.getElementById("displayed-school")
+
 function addSchoolToGrowingList(school) {
     const liElement = document.createElement('li')
     liElement.textContent = `${school.name}`
     liElement.addEventListener('click', () => {
         displaySchoolData(school)
+        displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
+    })
+    liElement.addEventListener('mouseover', () => {
+        hoveredSchoolElement.textContent = `Click now to see more data about ${school.name}!`
     })
     growingSchoolsListElement.appendChild(liElement)
    
@@ -42,18 +49,16 @@ function addSchoolToShrinkingList(school) {
     liElement.textContent = `${school.name}`
     liElement.addEventListener('click', () => {
         displaySchoolData(school)
+        displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
+    })
+    liElement.addEventListener('mouseover', () => {
+        hoveredSchoolElement.textContent = `Click now to see more data about ${school.name}!`
     })
     shrinkingSchoolsListElement.appendChild(liElement)
     
 
 }
 
-
-// above code was attempt to follow along with ricardo's example but applying my own school focus (stopped following him, but current amount seems reasonably illustrative)
-// burger-project-2 on Ricardo's github has the full project
-//note Can create a "sample" json file by standing up a non-existant json server (refer to code challenge for specfic commands)
-
-// const cryptocurrencyListElement = document.getElementById('cryptocurrency-list')
 const filterByStateCodeElement = document.getElementById("filter-by-state-code")
 const growingSchoolsListElement = document.getElementById("growing-schools-list")
 const shrinkingSchoolsListElement = document.getElementById("shrinking-schools-list")
@@ -125,8 +130,7 @@ function displaySchoolLists(schools) {
             }
         })
     }
-    // console.log(cryptocurrencyFilterElement.value)
-    // console.log(cryptocurrencies)
+    
 }
 
 function displaySchoolData(school) {
@@ -142,7 +146,3 @@ function displaySchoolData(school) {
     enrollmentChangeTableDataElement.textContent = school.enrollment_change
 }
 
-
-
-
-// Above code leveraged from 7.26 class time - filter on boolean is very important
