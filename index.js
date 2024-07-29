@@ -125,6 +125,18 @@ function displaySchoolLists(schools) {
             }
         })
     }
+    else if (filterByStateCodeElement.value === "CO") {
+        schools.forEach(school => {
+            if(school.statecode === "CO") {
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+                else if(school.enrollment_change < 0) {
+                    addSchoolToShrinkingList(school)
+                }   
+            }
+        })
+    }
     else if (filterByStateCodeElement.value === "CT") {
         schools.forEach(school => {
             if(school.statecode === "CT") {
