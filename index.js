@@ -113,6 +113,18 @@ function displaySchoolLists(schools) {
             }
         })
     }
+    else if (filterByStateCodeElement.value === "CA") {
+        schools.forEach(school => {
+            if(school.statecode === "CA") {
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+                else if(school.enrollment_change < 0) {
+                    addSchoolToShrinkingList(school)
+                }   
+            }
+        })
+    }
     // console.log(cryptocurrencyFilterElement.value)
     // console.log(cryptocurrencies)
 }
