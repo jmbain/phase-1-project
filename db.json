@@ -612,9 +612,129 @@
 
         },
         {
+            "id": 51,
+            "name": "Jefferson Academy",
+            "statecode": "CO",
+            "city": "BROOMFIELD",
+            "zipcode": 80020,
+            "enrollment2023": 317,
+            "enrollment2020": 1051,
+            "enrollment_change": -734,
+            "charter": true
+
+        },
+        {
+            "id": 52,
+            "name": "Alamosa Elementary School 3-5",
+            "statecode": "CO",
+            "city": "ALAMOSA",
+            "zipcode": 81101,
+            "enrollment2023": 504,
+            "enrollment2020": 1142,
+            "enrollment_change": -638,
+            "charter": false
+
+        },
+        {
+            "id": 53,
+            "name": "South Middle School",
+            "statecode": "CO",
+            "city": "AURORA",
+            "zipcode": 80011,
+            "enrollment2023": 139,
+            "enrollment2020": 760,
+            "enrollment_change": -621,
+            "charter": false
+
+        },
+        {
+            "id": 54,
+            "name": "Preston Middle School",
+            "statecode": "CO",
+            "city": "FORT COLLINS",
+            "zipcode": 80528,
+            "enrollment2023": 545,
+            "enrollment2020": 1132,
+            "enrollment_change": -587,
+            "charter": false
+
+        },
+        {
+            "id": 55,
+            "name": "Union Colony Preparatory School",
+            "statecode": "CO",
+            "city": "GREELEY",
+            "zipcode": 80634,
+            "enrollment2023": 364,
+            "enrollment2020": 864,
+            "enrollment_change": -500,
+            "charter": true
+
+        },
+        {
+            "id": 56,
+            "name": "Vista Peak 9-12 Preparatory",
+            "statecode": "CO",
+            "city": "AURORA",
+            "zipcode": 80018,
+            "enrollment2023": 1795,
+            "enrollment2020": 1407,
+            "enrollment_change": 388,
+            "charter": false
+
+        },
+        {
+            "id": 57,
+            "name": "Denver Online",
+            "statecode": "CO",
+            "city": "DENVER",
+            "zipcode": 80211,
+            "enrollment2023": 799,
+            "enrollment2020": 287,
+            "enrollment_change": 512,
+            "charter": false
+
+        },
+        {
+            "id": 58,
+            "name": "GOAL Academy",
+            "statecode": "CO",
+            "city": "PUEBLO",
+            "zipcode": 81003,
+            "enrollment2023": 5690,
+            "enrollment2020": 4965,
+            "enrollment_change": 725,
+            "charter": true
+
+        },
+        {
+            "id": 59,
+            "name": "HOPE Online Learning Academy High School",
+            "statecode": "CO",
+            "city": "ENGLEWOOD",
+            "zipcode": 80112,
+            "enrollment2023": 1361,
+            "enrollment2020": 590,
+            "enrollment_change": 771,
+            "charter": true
+
+        },
+        {
+            "id": 60,
+            "name": "Astravo Online Academy High School",
+            "statecode": "CO",
+            "city": "LAKEWOOD",
+            "zipcode": 80228,
+            "enrollment2023": 2134,
+            "enrollment2020": 485,
+            "enrollment_change": 1649,
+            "charter": true
+
+        },
+        {
             "id": 61,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -626,7 +746,7 @@
         {
             "id": 62,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -638,7 +758,7 @@
         {
             "id": 63,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -650,7 +770,7 @@
         {
             "id": 64,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -662,7 +782,7 @@
         {
             "id": 65,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -674,7 +794,7 @@
         {
             "id": 66,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -686,7 +806,7 @@
         {
             "id": 67,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -698,7 +818,7 @@
         {
             "id": 68,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -710,7 +830,7 @@
         {
             "id": 69,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
@@ -722,7 +842,7 @@
         {
             "id": 70,
             "name": "REPLACE WITH ACTUAL SCHOOL",
-            "statecode": "NY",
+            "statecode": "CT",
             "city": "REPLACE WITH ACTUAL CITY",
             "zipcode": 12345,
             "enrollment2023": 42,
