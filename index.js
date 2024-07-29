@@ -125,7 +125,54 @@ function displaySchoolLists(schools) {
             }
         })
     }
-    
+    else if (filterByStateCodeElement.value === "CT") {
+        schools.forEach(school => {
+            if(school.statecode === "CT") {
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+                else if(school.enrollment_change < 0) {
+                    addSchoolToShrinkingList(school)
+                }   
+            }
+        })
+    }
+    else if (filterByStateCodeElement.value === "DE") {
+        schools.forEach(school => {
+            if(school.statecode === "DE") {
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+                else if(school.enrollment_change < 0) {
+                    addSchoolToShrinkingList(school)
+                }   
+            }
+        })
+    }
+    else if (filterByStateCodeElement.value === "FL") {
+        schools.forEach(school => {
+            if(school.statecode === "FL") {
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+                else if(school.enrollment_change < 0) {
+                    addSchoolToShrinkingList(school)
+                }   
+            }
+        })
+    }
+    else if (filterByStateCodeElement.value === "GA") {
+        schools.forEach(school => {
+            if(school.statecode === "GA") {
+                if(school.enrollment_change > 0 ) {
+                    addSchoolToGrowingList(school)
+                }
+                else if(school.enrollment_change < 0) {
+                    addSchoolToShrinkingList(school)
+                }   
+            }
+        })
+    }
 }
 
 
