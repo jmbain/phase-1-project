@@ -7,13 +7,21 @@ h1 {
     color:aquamarine
 }
 
+h2 {
+    color:whitesmoke;
+}
+
 h3 {
-    color:whitesmoke
+    color:grey
+}
+
+h4 {
+    color: aliceblue;
 }
 
 li {
     color:whitesmoke;
-    border: whitesmoke;
+    border: whitesmoke 50px;
     text-align: left
 }
 
@@ -24,6 +32,4 @@ table {
     border: black 10px;
 }
 
-h2{
-    color:whitesmoke;
-}
+
