@@ -33,9 +33,24 @@ function addSchoolToGrowingList(school) {
     liElement.addEventListener('click', () => {
         displaySchoolData(school)
         displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
+        liElement.style.fontWeight = 'bold' 
+        liElement.style.color = 'black'
+        
+        //_______________________Circle back to conditional click logic that________________
+        // if(enrollmentChangeTableDataElement>0) {
+        //     enrollmentChangeTableDataElement.style = "color: green"
+        // }
+        // else if (enrollmentChangeTableDataElement<0) {
+        //     enrollmentChangeTableDataElement.style = "color: red"
+        // }
     })
     liElement.addEventListener('mouseover', () => {
-        hoveredSchoolElement.textContent = `Click now to see more data about ${school.name}!`
+        hoveredSchoolElement.textContent = `Click to see more data about ${school.name}!`
+        liElement.style.border = "1px solid green"
+    })
+    liElement.addEventListener('mouseout', () => {
+        hoveredSchoolElement.textContent = ''
+        liElement.style.border = ""
     })
     growingSchoolsListElement.appendChild(liElement)
 }
@@ -46,9 +61,16 @@ function addSchoolToShrinkingList(school) {
     liElement.addEventListener('click', () => {
         displaySchoolData(school)
         displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
+        liElement.style.fontWeight = 'bold' 
+        liElement.style.color = 'black'
     })
     liElement.addEventListener('mouseover', () => {
-        hoveredSchoolElement.textContent = `Click now to see more data about ${school.name}!`
+        hoveredSchoolElement.textContent = `Click to see more data about ${school.name}!`
+        liElement.style.border = "1px solid red"
+    })
+    liElement.addEventListener('mouseout', () => {
+        hoveredSchoolElement.textContent = ''
+        liElement.style.border = ""
     })
     shrinkingSchoolsListElement.appendChild(liElement)
 }
