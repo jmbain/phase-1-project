@@ -20,6 +20,9 @@ const displayedSchoolElement = document.getElementById("displayed-school")
 const filterByStateCodeElement = document.getElementById("filter-by-state-code")
 const growingSchoolsListElement = document.getElementById("growing-schools-list")
 const shrinkingSchoolsListElement = document.getElementById("shrinking-schools-list")
+const filterByAuthorizationElement = document.getElementById("filter-by-authorization")
+const filterBySettingElement = document.getElementById("filter-by-setting")
+const filterClassElements = document.getElementsByClassName("filter")
 
 //___________________________FUNCTIONS DEFINED HERE_________________________________________
 function addSchoolToGrowingList(school) {
