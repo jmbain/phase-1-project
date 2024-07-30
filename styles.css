@@ -12,7 +12,7 @@ h2 {
 }
 
 h3 {
-    color:grey
+    color:grey;
 }
 
 h4 {
@@ -23,7 +23,6 @@ li {
     color: gray;
     background-color: rgb(230, 230, 230);
     text-align: left;
-    border-radius: 20px 0 20px 0;
 }
 
 table {
@@ -33,8 +32,10 @@ table {
 }
 
 ul {
-    border: 100px gray;
     background-color: rgb(230, 230, 230);
-    border-radius: 20px 0 20px 0;
-    padding: 0 20px 0 20px;
+    border-radius: 0 20px 0 20px;
+    padding: 10px 20px 10px 20px;
+}
+button {
+    margin: 20px 20px 20px 20px;
 }
