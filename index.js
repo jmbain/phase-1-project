@@ -33,6 +33,12 @@ function addSchoolToGrowingList(school) {
     liElement.addEventListener('click', () => {
         displaySchoolData(school)
         displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
+        
+        // Reminder - come back to this "store values" feature that will support comparisons, first need to storeSchoolDetails onclick
+        const storeValuesButtonElement = document.createElement('button')
+        storeValuesButtonElement.textContent = `Store values for ${school.name}.`
+        displayedSchoolElement.appendChild(storeValuesButtonElement)
+        
         liElement.style.fontWeight = 'bold' 
         liElement.style.color = 'black'
         
@@ -61,6 +67,12 @@ function addSchoolToShrinkingList(school) {
     liElement.addEventListener('click', () => {
         displaySchoolData(school)
         displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
+        
+        // Reminder - come back to this "store values" feature that will support comparisons, first need to storeSchoolDetails onclick
+        const storeValuesButtonElement = document.createElement('button')
+        storeValuesButtonElement.textContent = `Store values for ${school.name}.`
+        displayedSchoolElement.appendChild(storeValuesButtonElement)
+        
         liElement.style.fontWeight = 'bold' 
         liElement.style.color = 'black'
     })
@@ -86,6 +98,20 @@ function displaySchoolData(school) {
     const enrollmentChangeTableDataElement = document.getElementById("td-enrollment-change")
     enrollmentChangeTableDataElement.textContent = ""
     enrollmentChangeTableDataElement.textContent = school.enrollment_change
+}
+
+function storeSchoolData(school) {
+    // repurpose structure of displaySchoolData to store data in table onclick of button, need to create new element
+    
+    // const enrollment2020TableDataElement = document.getElementById("td-2020-enrollment")
+    // enrollment2020TableDataElement.textContent = ""
+    // enrollment2020TableDataElement.textContent = school.enrollment2020
+    // const enrollment2023TableDataElement = document.getElementById("td-2023-enrollment")
+    // enrollment2023TableDataElement.textContent = ""
+    // enrollment2023TableDataElement.textContent = school.enrollment2023
+    // const enrollmentChangeTableDataElement = document.getElementById("td-enrollment-change")
+    // enrollmentChangeTableDataElement.textContent = ""
+    // enrollmentChangeTableDataElement.textContent = school.enrollment_change
 }
 
 
