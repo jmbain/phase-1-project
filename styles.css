@@ -20,16 +20,21 @@ h4 {
 }
 
 li {
-    color:whitesmoke;
-    border: whitesmoke 50px;
-    text-align: left
+    color: gray;
+    background-color: rgb(230, 230, 230);
+    text-align: left;
+    border-radius: 20px 0 20px 0;
 }
 
 table {
     background-color: grey;
     margin-left:auto;
     margin-right: auto;
-    border: black 10px;
 }
 
-
+ul {
+    border: 100px gray;
+    background-color: rgb(230, 230, 230);
+    border-radius: 20px 0 20px 0;
+    padding: 0 20px 0 20px;
+}

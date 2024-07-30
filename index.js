@@ -23,6 +23,8 @@ const shrinkingSchoolsListElement = document.getElementById("shrinking-schools-l
 const filterByAuthorizationElement = document.getElementById("filter-by-authorization")
 const filterBySettingElement = document.getElementById("filter-by-setting")
 const filterClassElements = document.getElementsByClassName("filter")
+const enrollmentChangeTableDataElement = document.getElementById("td-enrollment-change")
+
 
 //___________________________FUNCTIONS DEFINED HERE_________________________________________
 function addSchoolToGrowingList(school) {
