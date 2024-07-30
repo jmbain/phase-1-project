@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>School Data</h1>
-        <h2>Which schools have had the biggest enrollment changes since the onset of the pandemic? <br>
+        <h2>Curious which schools have had the biggest enrollment changes since the onset of the pandemic? <br>
             Select a state code below to find out!</h2>
         <br>
         <select id="filter-by-state-code" class="filter">
@@ -26,8 +26,8 @@
         
         <br>
         
-        <ul id="growing-schools-list" style="display: inline-block; color: green">Schools with the biggest increases in enrollment</ul>
-        <ul id="shrinking-schools-list" style="display: inline-block; color:red">Schools with the biggest decreases in enrollment</ul>
+        <ul id="growing-schools-list" style="display: inline-block; color: green; border-radius: 20px 0 20px 0">Schools with the biggest increases in enrollment</ul>
+        <ul id="shrinking-schools-list" style="display: inline-block; color:red; border-radius: 0 20px 0 20px">Schools with the biggest decreases in enrollment</ul>
 
         <br>
         <br>
@@ -57,10 +57,24 @@
             <br>
 
         <select id="filter-by-authorization" class="filter">
-            <option>Select a type</option>
+            <option>Select an authorization type</option>
             <option value="district">District Schools</option>
-            <option value="charter-network">Charter School Networks</option>
-            <option value="charter">Individual Charter Schools</option>
+            <option value="charter">Charter Schools</option>
+        </select>
+
+        <br>
+
+        <h3>Curious which schools have had the biggest enrollment changes since the onset of the pandemic? <br>
+            Select a school type below to find out!</h3>
+
+            <br>
+
+        <select id="filter-by-authorization" class="filter">
+            <option>Select a type</option>
+            <option value="regular">Regular Schools</option>
+            <option value="career-and-technical">Career and Technical Schools</option>
+            <option value="alternative">Alternative Education Schools</option>
+            <option value="special">Special Education Schools</option>
         </select>
 
         <br>
@@ -69,11 +83,41 @@
             Select an instructional setting type below to find out!</h3>
 
         <select id="filter-by-setting" class="filter">
-            <option>Select a type</option>
-            <option value="virtual">Virtual Schools</option>
+            <option>Select a setting type</option>
+            <option value="virtual">Full Virtual Schools</option>
+            <option value="hybrid">Virtual Schools with Face to Face Options</option>
             <option value="in-person">In-Person School</option>
-            <option value="homeschool">Home School</option>
+            
         </select>
 
+        <br>
+
+        <h3>Curious which schools have had the biggest enrollment changes since the onset of the pandemic? <br>
+            Select a locale type below to find out!</h3>
+
+            <select id="filter-by-locale" class="filter">
+                <option>Select a locale type</option>
+                <option value="city">City</option>
+                <option value="suburb">Suburb</option>
+                <option value="town">Town</option>
+                <option value="rural">Rural</option>
+            </select>
+
+
+        <select id="filter-by-locale-detailed" class="filter">
+            <option>Select a detailed locale type</option>
+            <option value="large-city">Large City</option>
+            <option value="mid-city">Mid-size City</option>
+            <option value="small-city">Small City</option>
+            <option value="large-suburb">Large Suburb</option>
+            <option value="mid-suburb">Mid-size Suburb</option>
+            <option value="small-suburb">Small Suburb</option>
+            <option value="fringe-town">Fringe Town</option>
+            <option value="distant-town">Distant Town</option>
+            <option value="remote-town">Remote Town</option>
+            <option value="fringe-rural">Fringe Rural</option>
+            <option value="distant-rural">Distant Rural</option>
+            <option value="remote-rural">Remote Rural</option>
+        </select>
     </body>
 </html>
