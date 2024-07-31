@@ -41,6 +41,8 @@ function addSchoolToGrowingList(school) {
         
         liElement.style.fontWeight = 'bold' 
         liElement.style.color = 'black'
+
+        renderSchoolReportCard(school)
         
         //_______________________Circle back to conditional click logic that________________
         // if(enrollmentChangeTableDataElement>0) {
@@ -75,6 +77,8 @@ function addSchoolToShrinkingList(school) {
         
         liElement.style.fontWeight = 'bold' 
         liElement.style.color = 'black'
+
+        renderSchoolReportCard(school)
     })
     liElement.addEventListener('mouseover', () => {
         hoveredSchoolElement.textContent = `Click to see more data about ${school.name}!`
@@ -85,6 +89,26 @@ function addSchoolToShrinkingList(school) {
         liElement.style.border = ""
     })
     shrinkingSchoolsListElement.appendChild(liElement)
+}
+
+function renderSchoolReportCard(school) {
+    console.log("this is happening on click")
+    const reportCard = document.createElement('div')
+    reportCard.className = "report-card"
+    reportCard.innerHTML = `
+        <h5>School Name: ${school.name}</h5>
+        <h7>City: ${school.city}</h7>
+        <br>
+        <h7>State: ${school.statecode}</h7>
+        <br>
+        <br>
+        <h7>2020 Enrollment: ${school.enrollment2020}</h7>
+        <br>
+        <h7>2023 Enrollment: ${school.enrollment2023}</h7>
+        <br>
+        <h7>Enrollment Change: ${school.enrollment_change}</h7>
+    `
+    document.getElementById("school-report-cards").appendChild(reportCard)
 }
 
 function displaySchoolData(school) {
