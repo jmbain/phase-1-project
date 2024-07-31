@@ -55,6 +55,7 @@ div.report-card {
     border-radius: 25px;
     width: 175px;
     height: 200px;
+    margin: 25px;
 }
 
 div#school-report-cards {

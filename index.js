@@ -10,7 +10,6 @@ fetch("http://localhost:3000/schools")
         // console.log("Logging if the change event listener is working")
         displaySchoolLists(schools)
     })
-    // schools.forEach(addSchoolToList)  
 })
 
 //____________________________GLOBAL VARIABLES DECLARED HERE________________________________
@@ -34,23 +33,10 @@ function addSchoolToGrowingList(school) {
         displaySchoolData(school)
         displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
         
-        // Reminder - come back to this "store values" feature that will support comparisons, first need to storeSchoolDetails onclick
-        const storeValuesButtonElement = document.createElement('button')
-        storeValuesButtonElement.textContent = `Store values for ${school.name}.`
-        displayedSchoolElement.appendChild(storeValuesButtonElement)
-        
         liElement.style.fontWeight = 'bold' 
         liElement.style.color = 'black'
 
         renderSchoolReportCard(school)
-        
-        //_______________________Circle back to conditional click logic that________________
-        // if(enrollmentChangeTableDataElement>0) {
-        //     enrollmentChangeTableDataElement.style = "color: green"
-        // }
-        // else if (enrollmentChangeTableDataElement<0) {
-        //     enrollmentChangeTableDataElement.style = "color: red"
-        // }
     })
     liElement.addEventListener('mouseover', () => {
         hoveredSchoolElement.textContent = `Click to see more data about ${school.name}!`
@@ -69,11 +55,6 @@ function addSchoolToShrinkingList(school) {
     liElement.addEventListener('click', () => {
         displaySchoolData(school)
         displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
-        
-        // Reminder - come back to this "store values" feature that will support comparisons, first need to storeSchoolDetails onclick
-        const storeValuesButtonElement = document.createElement('button')
-        storeValuesButtonElement.textContent = `Store values for ${school.name}.`
-        displayedSchoolElement.appendChild(storeValuesButtonElement)
         
         liElement.style.fontWeight = 'bold' 
         liElement.style.color = 'black'
@@ -123,21 +104,6 @@ function displaySchoolData(school) {
     enrollmentChangeTableDataElement.textContent = ""
     enrollmentChangeTableDataElement.textContent = school.enrollment_change
 }
-
-function storeSchoolData(school) {
-    // repurpose structure of displaySchoolData to store data in table onclick of button, need to create new element
-    
-    // const enrollment2020TableDataElement = document.getElementById("td-2020-enrollment")
-    // enrollment2020TableDataElement.textContent = ""
-    // enrollment2020TableDataElement.textContent = school.enrollment2020
-    // const enrollment2023TableDataElement = document.getElementById("td-2023-enrollment")
-    // enrollment2023TableDataElement.textContent = ""
-    // enrollment2023TableDataElement.textContent = school.enrollment2023
-    // const enrollmentChangeTableDataElement = document.getElementById("td-enrollment-change")
-    // enrollmentChangeTableDataElement.textContent = ""
-    // enrollmentChangeTableDataElement.textContent = school.enrollment_change
-}
-
 
 function displaySchoolLists(schools) {
     growingSchoolsListElement.textContent = "Schools with the biggest increases in enrollment"
