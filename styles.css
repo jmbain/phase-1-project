@@ -19,6 +19,14 @@ h4 {
     color: aliceblue;
 }
 
+h5 {
+    font-weight: bold;
+}
+
+h7 {
+    text-align: left;
+}
+
 li {
     color: gray;
     background-color: rgb(230, 230, 230);
@@ -37,5 +45,21 @@ ul {
     padding: 10px 20px 10px 20px;
 }
 button {
-    margin: 20px 20px 20px 20px;
+    margin: 20px 40px 20px 40px;
+}
+
+div.report-card {
+    text-align: left;
+    color: aliceblue;
+    border: 3px solid gray;
+    border-radius: 25px;
+    width: 175px;
+    height: 200px;
+}
+
+div#school-report-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: content;
 }
