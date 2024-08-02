@@ -1,3 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-container {
+    margin: 5% auto;
+    width: 80%;
+    max-width: 650px;
+}
+
 body {
     background-color: black;
     text-align: center;
@@ -9,6 +19,10 @@ h1 {
 
 h2 {
     color:whitesmoke;
+    background-color: rgb(50, 50, 50);
+    margin: 25px;
+    border-radius: 10px;
+    padding: 5px;
 }
 
 h3 {
@@ -21,10 +35,14 @@ h4 {
 
 h5 {
     font-weight: bold;
+    margin: 2px;;
+    max-width: 160px;
 }
 
-h7 {
+h6 {
     text-align: left;
+    margin: 2px;
+    max-width: 160px;
 }
 
 li {
@@ -51,11 +69,12 @@ button {
 div.report-card {
     text-align: left;
     color: aliceblue;
-    border: 3px solid gray;
+    border: 5px solid rgb(50, 50, 50);
     border-radius: 25px;
     width: 175px;
     height: 200px;
-    margin: 25px;
+    margin: 5px;
+    background-color: rgb(75, 75, 75)
 }
 
 div#school-report-cards {

@@ -78,16 +78,13 @@ function renderSchoolReportCard(school) {
     reportCard.className = "report-card"
     reportCard.innerHTML = `
         <h5>School Name: ${school.name}</h5>
-        <h7>City: ${school.city}</h7>
         <br>
-        <h7>State: ${school.statecode}</h7>
+        <h6>City: ${school.city}</h6>
+        <h6>State: ${school.statecode}</h6>
         <br>
-        <br>
-        <h7>2020 Enrollment: ${school.enrollment2020}</h7>
-        <br>
-        <h7>2023 Enrollment: ${school.enrollment2023}</h7>
-        <br>
-        <h7>Enrollment Change: ${school.enrollment_change}</h7>
+        <h6>2020 Enrollment: ${school.enrollment2020}</h6>
+        <h6>2023 Enrollment: ${school.enrollment2023}</h6>
+        <h6>Enrollment Change: ${school.enrollment_change}</h6>
     `
     document.getElementById("school-report-cards").appendChild(reportCard)
 }

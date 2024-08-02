@@ -7,39 +7,48 @@
     </head>
     
     <body>
-        <div>
-            <h1>School Data</h1>
-        <h2>Curious which schools have had the biggest enrollment changes since the onset of the pandemic? <br>
-            Select a state code below to find out!</h2>
-        <br>
-        <select id="filter-by-state-code" class="filter">
-            <option>Select a state code</option>
-            <option value="AK">AK</option>
-            <option value="AL">AL</option>
-            <option value="AR">AR</option>
-            <option value="AZ">AZ</option>
-            <option value="CA">CA</option>
-            <option value="CO">CO</option>
-            <option value="CT">CT</option>
-            <option value="DE">DE</option>
-            <option value="FL">FL</option>
-            <option value="GA">GA</option>
-        </select>
-        
-        <br>
-        
-        <ul id="growing-schools-list" style="display: inline-block; color: green; border-radius: 20px 0 20px 0">Schools with the biggest increases in enrollment</ul>
-        <ul id="shrinking-schools-list" style="display: inline-block; color:red; border-radius: 0 20px 0 20px">Schools with the biggest decreases in enrollment</ul>
-
-        <br>
-        <br>
-        <h4 id="hovered-school"></h4>
-        <h4 id="displayed-school"></h4>
-        
-        <div id="school-report-cards">
+        <div id="main-container" class="dark-mode">
+            <header>
+                <h1>School Data</h1>
+            </header>
             
-        </div>
+            <h2>Curious which schools have had the biggest enrollment changes since the onset of the pandemic? <br>
+            Select a state code below to find out!</h2>
+            <br>
+            <select id="filter-by-state-code" class="filter">
+                <option>Select a state code</option>
+                <option value="AK">AK</option>
+                <option value="AL">AL</option>
+                <option value="AR">AR</option>
+                <option value="AZ">AZ</option>
+                <option value="CA">CA</option>
+                <option value="CO">CO</option>
+                <option value="CT">CT</option>
+                <option value="DE">DE</option>
+                <option value="FL">FL</option>
+                <option value="GA">GA</option>
+            </select>
         
+            <br>
+            
+            <ul id="growing-schools-list" class = "schools-list" style="display: inline-block; color: green; border-radius: 20px 0 20px 0">Schools with the biggest increases in enrollment</ul>
+            <ul id="shrinking-schools-list" class = "schools-list" style="display: inline-block; color:red; border-radius: 0 20px 0 20px">Schools with the biggest decreases in enrollment</ul>
+
+            <br>
+            <br>
+            <h4 id="hovered-school"></h4>
+
+            
+            <div id="school-report-cards">
+                
+            </div>
+
+<!-- ALL THIS BELOW IS GRAVY ---> 
+        <h3>Below this point are starting points for future functionality</h3>
+        <br>
+        <br>
+        <br>
+        <h4 id="displayed-school"></h4>
         <table>
             <colgroup>
                 <col style="background-color: gainsboro;">
@@ -59,7 +68,6 @@
         </table>
         </div>
         
-<!-- ALL THIS BELOW IS GRAVY ---> 
         <div>
             <h3>Curious which district schools and charter schools have had the biggest enrollment changes since the onset of the pandemic? <br>
                 Select a school authorization type below to find out!</h3>
