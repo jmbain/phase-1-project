@@ -15,7 +15,7 @@ fetch("http://localhost:3000/schools")
 //____________________________GLOBAL VARIABLES DECLARED HERE________________________________
 
 const hoveredSchoolElement = document.getElementById("hovered-school")
-const displayedSchoolElement = document.getElementById("displayed-school")
+// const displayedSchoolElement = document.getElementById("displayed-school")
 const filterByStateCodeElement = document.getElementById("filter-by-state-code")
 const growingSchoolsListElement = document.getElementById("growing-schools-list")
 const shrinkingSchoolsListElement = document.getElementById("shrinking-schools-list")
@@ -30,12 +30,8 @@ function addSchoolToGrowingList(school) {
     const liElement = document.createElement('li')
     liElement.textContent = `${school.name}`
     liElement.addEventListener('click', () => {
-        displaySchoolData(school)
-        displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
-        
         liElement.style.fontWeight = 'bold' 
         liElement.style.color = 'black'
-
         renderSchoolReportCard(school)
     })
     liElement.addEventListener('mouseover', () => {
@@ -53,12 +49,8 @@ function addSchoolToShrinkingList(school) {
     const liElement = document.createElement('li')
     liElement.textContent = `${school.name}`
     liElement.addEventListener('click', () => {
-        displaySchoolData(school)
-        displayedSchoolElement.textContent = `You are currently viewing details for ${school.name}.`
-        
         liElement.style.fontWeight = 'bold' 
         liElement.style.color = 'black'
-
         renderSchoolReportCard(school)
     })
     liElement.addEventListener('mouseover', () => {
@@ -87,19 +79,6 @@ function renderSchoolReportCard(school) {
         <h6>Enrollment Change: ${school.enrollment_change}</h6>
     `
     document.getElementById("school-report-cards").appendChild(reportCard)
-}
-
-function displaySchoolData(school) {
-    // currentlyDisplayedSchool = school.id
-    const enrollment2020TableDataElement = document.getElementById("td-2020-enrollment")
-    enrollment2020TableDataElement.textContent = ""
-    enrollment2020TableDataElement.textContent = school.enrollment2020
-    const enrollment2023TableDataElement = document.getElementById("td-2023-enrollment")
-    enrollment2023TableDataElement.textContent = ""
-    enrollment2023TableDataElement.textContent = school.enrollment2023
-    const enrollmentChangeTableDataElement = document.getElementById("td-enrollment-change")
-    enrollmentChangeTableDataElement.textContent = ""
-    enrollmentChangeTableDataElement.textContent = school.enrollment_change
 }
 
 function displaySchoolLists(schools) {
